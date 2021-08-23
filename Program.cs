@@ -19,12 +19,6 @@ namespace MethodsExercise
             Console.ReadKey();
             Console.Clear();
 
-            static void InvalidResponseReceived(string reply)
-            {
-                Console.WriteLine("\nPlease enter a valid response\n");
-                reply = Console.ReadLine();
-            }
-
             static int GetUserIntInput(string question)
             {
                 Console.WriteLine(question+"\n");
