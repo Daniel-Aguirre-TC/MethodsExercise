@@ -1,0 +1,13 @@
+C:\Users\Second-Desktop\repos\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.exe
+C:\Users\Second-Desktop\repos\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.deps.json
+C:\Users\Second-Desktop\repos\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.runtimeconfig.json
+C:\Users\Second-Desktop\repos\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.runtimeconfig.dev.json
+C:\Users\Second-Desktop\repos\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.dll
+C:\Users\Second-Desktop\repos\MethodsExercise\bin\Debug\netcoreapp3.1\MethodsExercise.pdb
+C:\Users\Second-Desktop\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.csproj.AssemblyReference.cache
+C:\Users\Second-Desktop\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\Second-Desktop\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfo.cs
+C:\Users\Second-Desktop\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Second-Desktop\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.dll
+C:\Users\Second-Desktop\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.pdb
+C:\Users\Second-Desktop\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.genruntimeconfig.cache
